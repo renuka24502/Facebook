@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "562595151112",
+    "firebase_url": "https://facebookauth-2bf1e.firebaseio.com",
+    "project_id": "facebookauth-2bf1e",
+    "storage_bucket": "facebookauth-2bf1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562595151112:android:de14307737bc62f8",
+        "android_client_info": {
+          "package_name": "com.example.renuka.facebook_authencation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562595151112-p0nhd95cvakaqou3uv9c8oe1qhscbtdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzC8_3REscr07lOXFhDZ8pqZqvgKQ0xd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562595151112:android:d222f776edfe9376",
+        "android_client_info": {
+          "package_name": "com.cnf271.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562595151112-sbe3p62ij32lfvsm9p4lh7d8ff8ga36s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cnf271.testapplication",
+            "certificate_hash": "09defabdc7fff40e5535338bf19a1afc04a2065d"
+          }
+        },
+        {
+          "client_id": "562595151112-p0nhd95cvakaqou3uv9c8oe1qhscbtdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzC8_3REscr07lOXFhDZ8pqZqvgKQ0xd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562595151112-p0nhd95cvakaqou3uv9c8oe1qhscbtdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562595151112:android:79df314343beb5d3",
+        "android_client_info": {
+          "package_name": "com.example.viee.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562595151112-p0nhd95cvakaqou3uv9c8oe1qhscbtdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzC8_3REscr07lOXFhDZ8pqZqvgKQ0xd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

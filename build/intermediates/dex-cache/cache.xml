@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_2646db0ae2a596ada32abd895208ac80ba2b6f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_dfa4d19378eeacf955073b357416550d148ff2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.0.4_94df7934deada1c411201f676c6771af1f4a0627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_20a0f9f3c8e31719022af246a0d6de29563d45b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_097804a73a76ac09d9b23f2157f15e977548379e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_7881184076c4a4a7717e7c5b1c79d9cbcb6d1f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_4fb07267b334829e43b0baf795af3a47d02e7d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_b6a9be764a46daed56e37ecae4dc3a0180a5f24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_a9e68ced736d9afb444f94c502b6a4b4efc820d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_90ecb65bd6c34ebbbd0accef66affa0808f8a73c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_c066aff0d9a22558065ba249db1d03f736c97d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_c6ac12762c9a318c0eba8a3f4df95f59410f152d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0_08be804b23f48d17caa850a92fe11e609e5bd660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0_dcd0229d3dff08d37d0d134a5537c945259436c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_75b287935ab7af6f2d0efc01cc80d324d7f63246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.9.0_3a2ad6506e5fe77844c087c28a9c8c2945ccf753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_d8ec2c8b981ddb82c18ed16db562e784766ad4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_9b6633a606c6a969bd50836c91f0d8516f823245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_c7881ef467246278cdf38c2ddb1d1b8ca597acd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_7d6eb89e70b0999cb1f8b9d80876a689f4af900d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_15a9328582a81e6488e1a4090116aa35166376c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_6dd7432f089175df07d9eb52d0bf2bc51d708eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/renuka/AndroidStudioProjects/AndroidFirebaseLoginProjects-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_c32f7f0bd76495110a263afff571d2df962eb1b5.jar" />
+    </item>
+
+</items>
